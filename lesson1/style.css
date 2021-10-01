@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #dc14a0;
+  margin: 0;
+}
+h1 {
+  color: rgb(94, 94, 112);
+  font-size: 52px;
+  test-align: center;
+  border: 5px solid #14dc46;
+  padding: 50px 500px 100px 20px;
+  margin: 100px 50px 30px 250px;
+}
+.pink {
+  background-color: #dc14a070;
+  box-shadow: 5px 5px #ad6e9a70;
+}
+ul {
+  list-style-type: square;
+}
+img {
+  width: 30%;
+}
+.double-line {
+  line-height: 2;
+}
+/* Стили блоков */
+.orange {
+  background-color: orange;
+}
+.orange img {
+  width: 50%;
+  display: block;
+}
+.opink {
+  background-color: pink;
+}
+.blue {
+  background-color: rgb(127, 206, 230);
+}
+.block {
+  width: 30%;
+  border-radius: 15px;
+  padding: 10px;
+  float: left;
+  box-sizing: border-box;
+}
